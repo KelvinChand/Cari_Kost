@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CariKost</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="slider_Title1">Pesan Secara Online</string>
+    <string name="slider_Title2">Prosesnya Cepat</string>
+    <string name="slider_Title3">Terpercaya</string>
+    <string name="slider_Description1">Tidak Perlu Repot-Repot Menghubungi Pemilik Kostnya,Tinggal Pesan Kalo Suka Biarkan Kami Yang Menghubunginya.</string>
+    <string name="slider_Description2">Sekali Di Pesan Langsung, Langsung Bisa Di Tempati Hanya Di CariKost</string>
+    <string name="slider_Description3">Sudah Dipercaya oleh 10.000 Kos Yang Ada Di Indonesia Dan Dipercaya Oleh Lebih Dari 12.000+ Pengguna</string>
+    <string name="slider_Start">Eksplorasi Kost Terbaik Bersama Kami. Tinggal Cari, Kalo Suka Pesan Langsung</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

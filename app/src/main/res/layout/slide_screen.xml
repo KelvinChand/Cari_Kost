@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:flow_horizontalAlign="center">
+
+    <ImageView
+        android:id="@+id/slider_Image"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/comfort"
+        android:scaleType="fitCenter"/>
+    <TextView
+        android:id="@+id/slider_Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/slider_Title1"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:textColor="@color/dark_green"
+        android:textStyle="bold"
+        android:fontFamily="@font/poppins_semibold"/>
+    <TextView
+        android:id="@+id/slider_Description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="30dp"
+        android:text="@string/slider_Description1"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:textColor="@color/dark_green"
+        android:fontFamily="@font/poppins_semibold"/>
+
+
+</LinearLayout>
